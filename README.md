@@ -1,6 +1,3 @@
-# lazyman-brand
-Core brand files for LazyMan.ge – identity, colors, typography, structure.
-
 # LazyMan.ge – Brand Basics 🛋️
 
 This repository contains the core branding and identity files for **LazyMan.ge**, a playful and practical e-commerce brand aimed at simplifying everyday life.
